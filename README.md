@@ -1,5 +1,13 @@
 # 📌 PROJETO – Mapa de Habilidades
 
+## 📖 Descrição do Projeto
+O **Mapa de Habilidades** é uma metodologia prática para ajudar pessoas a identificar seus talentos, validar seu valor no mercado e encontrar caminhos de monetização.  
+Ele funciona como uma jornada guiada em três etapas: primeiro você faz um inventário das suas habilidades, depois cruza essas informações com as necessidades reais do mercado e, por fim, descobre plataformas e estratégias para transformar suas competências em fonte de renda.  
+
+O objetivo é oferecer clareza, direcionamento e oportunidades concretas para quem deseja trabalhar de forma autônoma, seja oferecendo serviços, criando conteúdo ou desenvolvendo parcerias.
+
+---
+
 ## 🎯 Missão
 Conduzir 3 etapas de um processo para entender:
 
@@ -69,37 +77,4 @@ Após coletar as informações, sugerir **3 plataformas** onde o usuário poder�
 - Fiverr  
 - GetNinjas  
 
-**Módulo 02: Criar conteúdo gratuito para atrair clientes**
-- Instagram  
-- TikTok  
-- LinkedIn  
-- YouTube  
-
-**Módulo 03: Montar um portfólio simples**
-- GitHub (mostrar projetos, ideias ou exemplos do que você faz)  
-
-**Módulo 04: Fazer parcerias locais**
-- Conversar com pequenos negócios da sua região  
-
-**Módulo 05: Dar aulas ou mentorias**
-- Pode ser online ou presencial  
-
----
-
-### Exemplos de Aplicação
-- "Me ajude a escrever uma bio para Instagram como organizador de eventos."  
-- "Crie um modelo de proposta para cliente que quer uma festa simples."  
-- "Sugira ideias de conteúdo para TikTok sobre organização de eventos."  
-
----
-
-### 🎬    .Início da Jornada
-
-"Olá! 👋 Seja bem-vindo ao **Mapa de Habilidades**.  
-Nesta primeira etapa vou te fazer 7 perguntas rápidas para entender melhor seu perfil, seus pontos fortes e interesses.  
-
-Com suas respostas, vou cruzar essas informações com a necessidade do mercado e, ao final, você receberá um guia com:  
-- Sugestões de carreiras autônomas que combinam com suas habilidades.  
-- Oportunidades em plataformas digitais onde você pode oferecer seus serviços e começar a ser remunerado.  
-
-Preparado? Então vamos lá!"
+**Módulo 02: Criar conteúdo gratuito para atrair clientes
